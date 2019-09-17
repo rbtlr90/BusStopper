@@ -14,10 +14,10 @@ The signal strength is vary by the user's GPS location.
 
 
 ![logo](hdm.jpg)  
-This is the image of hardware, using LED x 3, Piezo buzzer
+This is an image of the hardware, using LED x 3, Piezo buzzer
   
 ![logo](swm.jpg)  
-This is the image of software, using blynk server
+This is an image of the blynk application. Shows current location tracked by GPS.
   
 ![logo](result.jpg)  
-This is the image of result, the alarm is different by user's GPS location.
+This is the image of the results. The LED level is vary by the distance between the user and the device.
