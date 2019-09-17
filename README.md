@@ -1,13 +1,13 @@
 #BusStopper
 
 This program is developed for stopping the bus nearby.  
-It's using Arduino with Blynk server.  
+It's using an Arduino board interacting with a Blynk server.  
 Main program is Busstopper.ino which is using blynk.  
   
-If an user sends signal using blynk application,  
-the signal will be sent to a bus driver which has an arduino device,  
-then the bus driver will make a decision whether wait for the user for a while or not.  
-The signal is different by user's GPS location.  
+If an user sends a signal using blynk application,  
+the signal will be sent to a bus driver which has an arduino device.  
+After receiving the signal, the bus driver can make a decision whether wait for the user for a while or not.  
+The signal strength is vary by the user's GPS location.  
 
 
 
